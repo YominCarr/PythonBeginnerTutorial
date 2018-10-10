@@ -1,0 +1,10 @@
+SET ~/.jupyter/nbconfig/notebook.json TO FOLLOWING:
+
+{
+  "load_extensions": {
+    "rise/main": true
+  },
+  "rise" : {
+    "scroll": true
+  }
+}
